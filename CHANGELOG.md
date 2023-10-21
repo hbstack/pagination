@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/hbstack/pagination/compare/v0.2.1...v0.3.0) (2023-10-21)
+
+
+### Features ✨
+
+* **i18n:** create ms.toml ([#71](https://github.com/hbstack/pagination/issues/71)) ([058d91f](https://github.com/hbstack/pagination/commit/058d91f84fcb88599dcc78057a313f024fd6aec2))
+
 ## [0.2.1](https://github.com/hbstack/pagination/compare/v0.2.0...v0.2.1) (2023-10-16)
 
 
