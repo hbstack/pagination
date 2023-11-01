@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/hbstack/pagination/compare/v0.3.0...v0.4.0) (2023-11-01)
+
+
+### Features ✨
+
+* **i18n:** add Russian translations ([#77](https://github.com/hbstack/pagination/issues/77)) ([61d2a93](https://github.com/hbstack/pagination/commit/61d2a9363ade0183bebf98ca896e7c4281398a72))
+
 ## [0.3.0](https://github.com/hbstack/pagination/compare/v0.2.1...v0.3.0) (2023-10-21)
 
 
