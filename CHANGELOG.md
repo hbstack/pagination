@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/hbstack/pagination/compare/v0.4.0...v0.5.0) (2023-11-02)
+
+
+### Features ✨
+
+* **i18n:** add French translations ([#79](https://github.com/hbstack/pagination/issues/79)) ([7ed232e](https://github.com/hbstack/pagination/commit/7ed232e54af6540d9ca1f22c13db4e5a1c1a7eb7))
+
 ## [0.4.0](https://github.com/hbstack/pagination/compare/v0.3.0...v0.4.0) (2023-11-01)
 
 
