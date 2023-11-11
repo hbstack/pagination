@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/hbstack/pagination/compare/v0.5.0...v0.6.0) (2023-11-11)
+
+
+### Features ✨
+
+* **i18n:** create pt-br.toml ([#85](https://github.com/hbstack/pagination/issues/85)) ([5b9a1da](https://github.com/hbstack/pagination/commit/5b9a1da0b288277900204e8aa3cd8ed48cd6745d))
+
 ## [0.5.0](https://github.com/hbstack/pagination/compare/v0.4.0...v0.5.0) (2023-11-02)
 
 
