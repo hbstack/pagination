@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/hbstack/pagination/compare/v0.6.0...v0.7.0) (2024-04-23)
+
+
+### Features ✨
+
+* **i18n:** add German translations ([#157](https://github.com/hbstack/pagination/issues/157)) ([024dc80](https://github.com/hbstack/pagination/commit/024dc804911ce0a375860f0883bb7954372e9172))
+
 ## [0.6.0](https://github.com/hbstack/pagination/compare/v0.5.0...v0.6.0) (2023-11-11)
 
 
