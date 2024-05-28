@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/hbstack/pagination/compare/v0.7.0...v0.8.0) (2024-05-28)
+
+
+### Features ✨
+
+* **i18n:** add Vietnamese translations ([9d25ed9](https://github.com/hbstack/pagination/commit/9d25ed9b4fb8a51ae8ab6a843ae425bfd50dd030))
+
 ## [0.7.0](https://github.com/hbstack/pagination/compare/v0.6.0...v0.7.0) (2024-04-23)
 
 
